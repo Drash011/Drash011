@@ -2,7 +2,7 @@
 <h3 align="center">I'm Drashti Thummar</h3>
 
 <p align="center">
-💻 Fullstack Developer | 💡Frontend Enthusiast | 🔤 BCA Student | 🚀 Lifelong Learner
+💻 Front End Developer | 💡Frontend Enthusiast | 🔤 BCA Student | 🚀 Lifelong Learner
 </p>
 
 ---
