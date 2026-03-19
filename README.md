@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=B57EDC&size=35&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Drashti+Thummar;Front+End+Developer);
+<img src="https://readme-typing-svg.herokuapp.com?color=B57EDC&size=35&center=true&vCenter=true&width=850&lines=Hello+👋,+I'm+Drashti+Thummar;Front+End+Developer;make+user-friendly+applications">
 
 <h3 align="center">
 💻 Front End Developer | 🎓 BCA Student | 🚀 Lifelong Learner
