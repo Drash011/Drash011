@@ -44,19 +44,8 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Drash011&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drash011&theme=tokyonight"/>
-
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drash011&layout=compact&theme=tokyonight"/>
 
 </p>
 
