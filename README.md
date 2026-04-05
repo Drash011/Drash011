@@ -44,9 +44,14 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 
 <p align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drash011&theme=tokyonight"/>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drash011&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drash011&theme=github_dark" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
@@ -61,8 +66,17 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
 
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/drashti-thummar-07b847389 
+- 💻 GitHub: https://github.com/Drash011 
+- 📧 Email: thummard097@gmail.com
+
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
+
 <p align="center">
 
-✨ *"Build. Learn. Improve. Repeat 🚀"*
+💻 **"Build.** 📚 **Learn.** 📈 **Improve.** 🔁 **Repeat**" 🚀
 
 </p>
