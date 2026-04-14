@@ -40,6 +40,19 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
+
+## 💻 My Projects
+
+### 🌐 Portfolio Website  
+A personal portfolio showcasing my frontend projects, skills, and UI design with a focus on clean, responsive, and modern web interfaces.  
+🔗 **[Live Demo](https://drash011.github.io/Portfolio)**  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
+
+### 🎵 Spotify Clone  
+A modern Spotify UI clone with playlists, banners, and fully responsive design, built to deliver a smooth and engaging music app experience.  
+🔗 **[Live Demo](https://drash011.github.io/Spotify)**  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
 
