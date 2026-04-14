@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B57EDC,100:ffb3ba&height=150&section=header"/>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=B57EDC&size=35&center=true&vCenter=true&width=850&lines=Hello+👋,+I'm+Drashti+Thummar;Front+End+Developer">
 
@@ -38,6 +40,7 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 
 </p>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
 
 ## 📊 GitHub Stats
@@ -47,12 +50,9 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drash011&theme=tokyonight"/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drash011&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drash011&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Drash011&theme=github_dark" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
 
@@ -65,6 +65,15 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
+
+## 🔥 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drash011&theme=tokyo-night"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
+
 
 ## 🌐 Connect With Me
 
@@ -80,3 +89,5 @@ I am a dedicated Frontend Developer with a strong interest in building modern an
 💻 **"Build.** 📚 **Learn.** 📈 **Improve.** 🔁 **Repeat**" 🚀
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B57EDC,100:ffb3ba&height=150&section=footer"/>
