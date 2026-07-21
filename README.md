@@ -54,6 +54,10 @@ A personal portfolio showcasing my frontend projects, skills, and UI design with
 A modern Spotify UI clone with playlists, banners, and fully responsive design, built to deliver a smooth and engaging music app experience.  
 🔗 **[Live Demo](https://drash011.github.io/Spotify)**  
 
+### 🎵 Spotify Clone  
+CarePlus is a modern healthcare website designed to connect patients with trusted medical professionals. It offers a clean, responsive interface for booking appointments and accessing quality healthcare services.<br/>
+🔗 **[Live Demo](drash011.github.io/CarePlus)**  
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ffb3ba,25:ffdfba,50:ffffba,75:baffc9,100:bae1ff"/>
 
 ## 📊 GitHub Stats
