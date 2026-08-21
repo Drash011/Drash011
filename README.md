@@ -275,16 +275,6 @@ Building practical real-world applications.
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Drash011&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
