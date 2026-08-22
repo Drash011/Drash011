@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 250">
+<defs><linearGradient id="b"><stop stop-color="#020617"/><stop offset=".5" stop-color="#0B1F44"/><stop offset="1" stop-color="#020617"/></linearGradient><linearGradient id="w"><stop stop-color="#0284C7"/><stop offset=".5" stop-color="#67E8F9"/><stop offset="1" stop-color="#2563EB"/></linearGradient></defs>
+<rect width="1600" height="250" fill="url(#b)"/>
+<path d="M-80 190C170 65 350 70 560 170S920 275 1140 135S1410 55 1680 160" fill="none" stroke="#0284C7" stroke-width="32" opacity=".2"/>
+<path d="M-80 190C170 65 350 70 560 170S920 275 1140 135S1410 55 1680 160" fill="none" stroke="url(#w)" stroke-width="4"/>
+<path d="M-80 215C180 90 350 95 570 195S920 300 1150 160S1420 80 1680 185" fill="none" stroke="#22D3EE" stroke-width="1.4" opacity=".8"/>
+<text x="800" y="105" text-anchor="middle" fill="#E2E8F0" font-family="Arial" font-size="22" letter-spacing="5">BUILD WITH PURPOSE</text>
+<text x="800" y="140" text-anchor="middle" fill="#67E8F9" font-family="Arial" font-size="15">Learn with curiosity · Improve every day</text>
+</svg>

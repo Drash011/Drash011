@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#020617"/><stop offset=".55" stop-color="#071B3A"/><stop offset="1" stop-color="#041126"/>
+  </linearGradient>
+  <linearGradient id="blue"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#06B6D4"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="560" rx="22" fill="url(#bg)"/>
+<g opacity=".15" stroke="#2563EB">
+ <path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600M0 480H1600"/>
+ <path d="M120 0V560M280 0V560M440 0V560M600 0V560M760 0V560M920 0V560M1080 0V560M1240 0V560M1400 0V560M1560 0V560"/>
+</g>
+<g fill="#67E8F9">
+ <circle cx="110" cy="82" r="2"/><circle cx="240" cy="42" r="1.7"/><circle cx="390" cy="115" r="1.5"/>
+ <circle cx="1280" cy="65" r="2"/><circle cx="1435" cy="110" r="1.6"/><circle cx="1510" cy="48" r="1.5"/>
+</g>
+<path d="M-80 390 C180 115 360 125 610 320 S930 510 1170 245 S1400 70 1680 270"
+ fill="none" stroke="#0284C7" stroke-width="48" opacity=".18" filter="url(#glow)"/>
+<path d="M-80 390 C180 115 360 125 610 320 S930 510 1170 245 S1400 70 1680 270"
+ fill="none" stroke="url(#blue)" stroke-width="5"/>
+<path d="M-80 420 C180 145 360 155 610 350 S930 540 1170 275 S1400 100 1680 300"
+ fill="none" stroke="#22D3EE" stroke-width="1.5" opacity=".8"/>
+<g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#F8FAFC">
+ <text x="800" y="145" font-size="24" letter-spacing="8" fill="#67E8F9">FRONTEND DEVELOPER</text>
+ <text x="800" y="220" font-size="64" font-weight="700" letter-spacing="2">DRASHTI THUMMAR</text>
+ <line x1="555" y1="245" x2="1045" y2="245" stroke="#38BDF8" stroke-width="2" opacity=".8"/>
+ <text x="800" y="285" font-size="22" fill="#CBD5E1">BCA Student  ·  UI Enthusiast  ·  JavaScript Learner</text>
+ <rect x="420" y="320" width="760" height="78" rx="12" fill="#020617" fill-opacity=".55" stroke="#1D4ED8" stroke-width="1"/>
+ <text x="800" y="351" font-family="monospace" font-size="18" fill="#67E8F9">Building Clean &amp; Responsive Web Interfaces</text>
+ <text x="800" y="378" font-family="monospace" font-size="18" fill="#38BDF8">Turning Ideas Into Interactive Experiences</text>
+ <text x="800" y="515" font-size="15" letter-spacing="4" fill="#94A3B8">LEARN  ·  BUILD  ·  DEBUG  ·  IMPROVE</text>
+</g>
+</svg>
