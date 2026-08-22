@@ -2,7 +2,7 @@
 
 <img src="assets/neon-header.svg" width="100%" alt="Drashti Thummar blue neon developer header"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/Drash011">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:thummard097@gmail.com">Email</a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Building+Clean+%26+Responsive+Web+Interfaces;Learning+JavaScript+Through+Real+Projects;Turning+Ideas+Into+Interactive+Experiences;Always+Learning.+Always+Building"/>
 
@@ -76,11 +76,27 @@ Strengthening programming fundamentals and logical thinking through practical pr
 
 ## TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,c,cpp,git,github,vscode&perline=10&theme=dark"/>
+<br>
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript&theme=dark" height="58"/>
+
+<br>
+
+**HTML5** &nbsp; · &nbsp; **CSS3** &nbsp; · &nbsp; **Bootstrap** &nbsp; · &nbsp; **JavaScript** &nbsp; · &nbsp; **TypeScript**
 
 <br><br>
 
-`HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `TypeScript` · `C` · `C++` · `Git` · `GitHub` · `VS Code`
+### PROGRAMMING & DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode&theme=dark" height="58"/>
+
+<br>
+
+**C** &nbsp; · &nbsp; **C++** &nbsp; · &nbsp; **Git** &nbsp; · &nbsp; **GitHub** &nbsp; · &nbsp; **VS Code**
+
+<br><br>
 
 </div>
 
@@ -138,23 +154,14 @@ A healthcare-focused website designed with a clean interface for exploring docto
 
 ---
 
-### OTP Verification System
-
-An interactive OTP verification interface built with HTML, CSS and JavaScript.
-
-**Key Features**  
-`Countdown Timer` · `Resend OTP` · `Attempt Tracking` · `3 Attempt Limit` · `24 Hour Cooldown`
-
-**Focus**  
-`DOM` · `Timers` · `Events` · `Conditional Logic` · `Dynamic UI`
-
----
 
 <div align="center">**More projects are currently in progress.**</div>
 
 ---
 
-<div align="center">## LEARNING & GROWTH</div>
+<div align="center">
+  <h2>LEARNING & GROWTH</h2>
+</div>
 
 | Learning | Focus |
 |:---|:---|
@@ -166,7 +173,9 @@ An interactive OTP verification interface built with HTML, CSS and JavaScript.
 
 ---
 
-<div align="center">## CURRENT FOCUS</div>
+<div align="center">
+  <h2>CURRENT FOCUS</h2>
+</div>
 
 | JavaScript | UI Development | Projects | Growth |
 |:---:|:---:|:---:|:---:|
