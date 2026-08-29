@@ -1,118 +1,101 @@
+<p align="center">
+  <img src="./assets/Drashti_Thummar_GitHub_Banner.png" width="100%" height="350px" alt="Banner"/>
+</p>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=22E6A8&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Universe!;Front+End+Developer;Frontend+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</div>
 
-<img src="assets/neon-header.svg" width="100%" alt="Drashti Thummar blue neon developer header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22E6A8,50:8B5CF6,100:06B6D4&height=2&section=header&text=" width="90%" alt="">
+</p>
 
-<br><br>
+<h1 align="center">
+Hi 👋 I'm <b>Drashti Thummar</b>
+</h1>
 
-<a href="https://github.com/Drash011">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/drashti-thummar-07b847389">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:thummard097@gmail.com">Email</a>
+<h3 align="center">
+💻 Frontend Developer • 🎓 BCA Student • 🧠 Machine Learning Enthusiast
+</h3>
 
+<p align="center">
+Building intelligent web applications and AI-powered solutions with modern technologies,
+clean architecture, and exceptional user experiences.
+</p>
+
+<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+
+# 🚀 About Me
+
+<p align="center">
+<i>
+Transforming ideas into intelligent software through clean code, creativity, and AI innovation.
+</i>
+</p>
+
+<table align="center" border="white">
+<tr width="100%">
+
+<td width="60%">
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Building+Clean+%26+Responsive+Web+Interfaces;Learning+JavaScript+Through+Real+Projects;Turning+Ideas+Into+Interactive+Experiences;Always+Learning.+Always+Building"/>
+```yaml
+👩 Name: Drashti Thummar
+💼 Role: Front End Developer 
+📍 Based In: India
+🎓 Degree: Bachelor of Computer Applications
+🚀 Specialization:  Front End Developer • Machine Learning
+💻 Current Focus: Frontend AI Engineering Internship
+🎯 Mission: Creating impactful AI-powered digital experiences
+```
 
-</div>
+- 🚀 Building scalable and modern web applications.
+- 🤖 Developing AI-powered solutions with practical impact.
+- 📚 Continuously learning emerging technologies.
+- 💡 Passionate about clean code, UI/UX, and problem solving.
+- 🌍 Open to collaboration on innovative software projects.
+- 📬 Reach me: **thummard097gmail.com**
 
----
+<br>
+</td>
 
-<div align="center">
+<td width="40%" align="center">
 
-## ABOUT ME
+<img src="./assets/about-ai.png.png" width="320" height="320"/>
 
-</div>
+</td>
 
-I'm **Drashti Thummar**, a **BCA student and aspiring Frontend Developer** who enjoys building modern, responsive, and interactive web experiences.
+</tr>
+</table>
 
-My primary focus is frontend development, especially creating interfaces that are **clean, responsive, visually appealing, and easy to use**.
+<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
 
-I believe in learning through practice — taking concepts, turning them into projects, debugging what doesn't work, and continuously improving.
+# 💻 Tech Stack
 
-<div align="center">
-
-`LEARN` → `BUILD` → `DEBUG` → `IMPROVE`
-
-</div>
-
----
-
-<div align="center">
-
-## WHAT I DO
-
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td width="33%" align="center">
+<td align="center">
 
-### FRONTEND
-
-Building responsive websites and modern interfaces using HTML, CSS, Bootstrap and JavaScript.
-
-</td>
-<td width="33%" align="center">
-
-### JAVASCRIPT
-
-Working with DOM manipulation, events, functions, logic and interactive web experiences.
-
-</td>
-<td width="33%" align="center">
-
-### PROBLEM SOLVING
-
-Strengthening programming fundamentals and logical thinking through practical projects.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,materialui,redux,ts,c,cpp,git,github,vscode,figma&perline=10&theme=dark" />
 
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <i>Building modern web applications with AI-powered technologies.</i>
+</p>
 
-<div align="center">
+<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
 
-## TECH STACK
 
-<br>
+# 🚀 Featured Projects
 
-### FRONTEND DEVELOPMENT
+<table>
+<tr>
+<td>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript&theme=dark" height="58"/>
-
-<br>
-
-**HTML5** &nbsp; · &nbsp; **CSS3** &nbsp; · &nbsp; **Bootstrap** &nbsp; · &nbsp; **JavaScript** &nbsp; · &nbsp; **TypeScript**
-
-<br><br>
-
-### PROGRAMMING & DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode&theme=dark" height="58"/>
-
-<br>
-
-**C** &nbsp; · &nbsp; **C++** &nbsp; · &nbsp; **Git** &nbsp; · &nbsp; **GitHub** &nbsp; · &nbsp; **VS Code**
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-## FEATURED PROJECTS
-
-### Projects built while learning, experimenting and improving.
-
-</div>
-
-<br>
-
-### Portfolio Website
+### 🌐 Portfolio Website
 
 A personal portfolio website designed to showcase my skills, projects and frontend development journey.
 
@@ -124,9 +107,13 @@ A personal portfolio website designed to showcase my skills, projects and fronte
 
 **Live:** [View Portfolio](https://drash011.github.io/Portfolio)
 
----
+</td>
+</tr>
 
-### Spotify UI Clone
+<tr>
+<td>
+
+### 🎵 Spotify UI Clone
 
 A Spotify-inspired frontend interface created to practice modern layouts, navigation, cards and responsive design.
 
@@ -138,9 +125,13 @@ A Spotify-inspired frontend interface created to practice modern layouts, naviga
 
 **Live:** [View Spotify UI](https://drash011.github.io/Spotify)
 
----
+</td>
+</tr>
 
-### CarePlus
+<tr>
+<td>
+
+### 🩺 CarePlus
 
 A healthcare-focused website designed with a clean interface for exploring doctors and healthcare services.
 
@@ -152,102 +143,91 @@ A healthcare-focused website designed with a clean interface for exploring docto
 
 **Live:** [View CarePlus](https://drash011.github.io/CarePlus/)
 
----
+</td>
+</tr>
 
+</table>
 
-<div align="center">**More projects are currently in progress.**</div>
+<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
 
----
+# 📊 GITHUB ACTIVITY
 
-<div align="center">
-  <h2>LEARNING & GROWTH</h2>
-</div>
+<table align="center">
+<tr>
 
-| Learning | Focus |
-|:---|:---|
-| **HTML & CSS** | Structure · Layouts · Responsive Design |
-| **Bootstrap** | Components · Responsive Interfaces |
-| **JavaScript** | Logic · Functions · DOM · Events |
-| **Git & GitHub** | Version Control · Repositories |
-| **Problem Solving** | Logic Building · Programming Fundamentals |
+<td width="50%" align="center">
 
----
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drash011&theme=github_dark"
+  width="100%"
+  alt="GitHub Stats"
+/>
 
-<div align="center">
-  <h2>CURRENT FOCUS</h2>
-</div>
+</td>
 
-| JavaScript | UI Development | Projects | Growth |
-|:---:|:---:|:---:|:---:|
-| Logic, DOM and events | Cleaner responsive interfaces | Practical applications | Learning through every project |
+<td width="50%" align="center">
 
----
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drash011&theme=github_dark"
+  width="100%"
+  alt="Top Languages"
+/>
 
-<div align="center">
+</td>
 
-## GITHUB ACTIVITY
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drash011&theme=github_dark"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Drash011&theme=github_dark"/>
-
-<br><br>
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drash011&theme=github_dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## GITHUB ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=Drash011&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-## CONTRIBUTION ACTIVITY
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Drash011&bg_color=020617&color=67E8F9&line=0284C7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## MY DEVELOPMENT APPROACH
-
-### LEARN → BUILD → BREAK → DEBUG → IMPROVE → BUILD BETTER
+</tr>
+</table>
 
 <br>
 
-`LEARN` → `BUILD` → `BREAK` → `DEBUG` → `IMPROVE` → `GROW`
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drash011&theme=github_dark"
+    width="80%"
+    alt="GitHub Profile Details"
+  />
+</p>
 
-<br><br>
+<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
 
-<sub>I don't aim to know everything. I aim to learn something new with every project.</sub>
-
-</div>
-
----
+# 💬 Developer Mindset
 
 <div align="center">
 
-## LET'S CONNECT
-
-I'm open to **learning, collaboration, frontend projects and new opportunities.**
-
-<br><br>
-
-[GitHub](https://github.com/Drash011) · [LinkedIn](https://www.linkedin.com/in/drashti-thummar-07b847389) · [Email](mailto:thummard097@gmail.com)
-
-<br><br>
-
-<img src="assets/neon-footer.svg" width="100%" alt="Blue neon footer"/>
+### 💜 *"The best way to predict the future is to build it."*
 
 </div>
+
+<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/drashti-thummar-07b847389/">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:thummard097@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Drash011">
+    <img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<hr style="border:0; height:1px; width:90%; margin:25px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<i>Made with ❤️ by <b>Drashti Thummar</b></i>
+
+<br>
+
+💻 <b>Frontend Developer</b> &nbsp;•&nbsp; 🧠 <b>Machine Learning Enthusiast</b>
+
+</div>
+
+<hr style="border:0; height:1px; width:90%; margin:25px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
