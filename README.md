@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22E6A8,50:8B5CF6,100:06B6D4&height=2&section=header&text=" width="90%" alt="">
+  <img src="./assets/line.svg" width="90%" alt="">
 </p>
 
 <h1 align="center">
@@ -23,7 +23,9 @@ Building intelligent web applications and AI-powered solutions with modern techn
 clean architecture, and exceptional user experiences.
 </p>
 
-<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 # 🚀 About Me
 
@@ -68,7 +70,9 @@ Transforming ideas into intelligent software through clean code, creativity, and
 </tr>
 </table>
 
-<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 # 💻 Tech Stack
 
@@ -86,8 +90,9 @@ Transforming ideas into intelligent software through clean code, creativity, and
   <i>Building modern web applications with AI-powered technologies.</i>
 </p>
 
-<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
-
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 # 🚀 Featured Projects
 
@@ -148,7 +153,9 @@ A healthcare-focused website designed with a clean interface for exploring docto
 
 </table>
 
-<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 # 📊 GITHUB ACTIVITY
 
@@ -188,7 +195,9 @@ A healthcare-focused website designed with a clean interface for exploring docto
   />
 </p>
 
-<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 # 💬 Developer Mindset
 
@@ -198,7 +207,9 @@ A healthcare-focused website designed with a clean interface for exploring docto
 
 </div>
 
-<hr style="border:0; height:1px; width:90%; margin:18px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 # 🌐 Connect With Me
 
@@ -216,7 +227,9 @@ A healthcare-focused website designed with a clean interface for exploring docto
   </a>
 </p>
 
-<hr style="border:0; height:1px; width:90%; margin:25px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
 
 <div align="center">
 
@@ -230,4 +243,6 @@ A healthcare-focused website designed with a clean interface for exploring docto
 
 </div>
 
-<hr style="border:0; height:1px; width:90%; margin:25px auto; background:linear-gradient(90deg, transparent, #22E6A8 25%, #8B5CF6 50%, #06B6D4 75%, transparent); opacity:0.8;">
+<p align="center">
+  <img src="./assets/line.svg" width="90%" alt="">
+</p>
