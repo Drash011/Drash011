@@ -110,7 +110,7 @@ A personal portfolio website designed to showcase my skills, projects and fronte
 **Built With**  
 `HTML` `CSS` `Bootstrap` `JavaScript`
 
-**Live:** [View Portfolio](https://drash011.github.io/Portfolio)
+**Live:** [View Portfolio](https://drashti-thummar.vercel.app/)
 
 </td>
 </tr>
